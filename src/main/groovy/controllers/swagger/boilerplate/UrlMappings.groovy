@@ -1,4 +1,4 @@
-package swagger.boilerplate
+package controllers.swagger.boilerplate
 
 class UrlMappings {
 
